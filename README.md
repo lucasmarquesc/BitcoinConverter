@@ -2,6 +2,9 @@
 
 BitcoinConverter é um aplicativo Android simples e intuitivo que permite **converter valores em Bitcoin para diferentes moedas fiduciárias** em tempo real. O app utiliza a API da Blockchain para obter a cotação atual do Bitcoin e exibe o resultado de forma clara e rápida.  
 
+<img width="1147" height="670" alt="image" src="https://github.com/user-attachments/assets/785e6e4a-960a-4eef-9c75-2fd9815d5e5a" />
+
+
 ---
 
 ## 📱 Contexto Acadêmico
